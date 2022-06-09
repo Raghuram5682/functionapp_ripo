@@ -1,0 +1,1 @@
+rg_name="samaraghuram_functionapp_rg"
